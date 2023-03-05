@@ -1,0 +1,71 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":null,"items":[{"name":"csharp","languageName":"C#","aliases":["c#","cs"]},{"name":"fsharp","languageName":"F#","aliases":["f#","fs"]},{"name":"pwsh","languageName":"PowerShell","aliases":["powershell"]},{"name":"javascript","languageName":"JavaScript","aliases":["js"]},{"name":"html","languageName":"HTML"},{"name":"sql","languageName":"SQL"},{"name":"kql","languageName":"KQL"},{"name":"mermaid","languageName":"Mermaid"},{"name":"httpRequest","languageName":"http"},{"name":"value"}]}}
+
+#!markdown
+
+# Chapter 1 - Hello, C#! Welcome, .NET!
+Mixing *rich* **text** and code is cool!
+
+#!csharp
+
+#!about
+
+#!csharp
+
+static string exitMessage(int newFloor)
+{
+    return $"sme na {newFloor}.poschodi";
+}
+
+#!csharp
+
+exitMessage(10)
+
+#!csharp
+
+using System.Threading;
+
+#!csharp
+
+static int passengerRequest()
+{
+    int call = Random.Shared.Next(0, 10);
+
+    Console.WriteLine($"privolali ma na {call}.poschodie...idem tam");
+    Thread.Sleep(1000);
+
+    return call;
+}
+
+#!csharp
+
+passengerRequest()
+
+#!csharp
+
+int PassengerRide()
+{
+    while (true)
+    {
+        try
+        {
+            Console.WriteLine("vyberte poschodie 0 - 10: ");
+            int floorRequest = int.Parse(Console.ReadLine());
+            if (floorRequest >= 0 && floorRequest <= 10)
+            {
+                Console.WriteLine("ideme na " + floorRequest + ". poschodie");
+                System.Threading.Thread.Sleep(500);
+                return floorRequest;
+            }
+        }
+        catch (FormatException)
+        {
+            continue;
+        }
+    }
+}
+
+#!csharp
+
+5

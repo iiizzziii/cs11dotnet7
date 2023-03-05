@@ -1,0 +1,15 @@
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\CH02Ex03Numbers.csproj.AssemblyReference.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\CH02Ex03Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\CH02Ex03Numbers.AssemblyInfoInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\CH02Ex03Numbers.AssemblyInfo.cs
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\CH02Ex03Numbers.csproj.CoreCompileInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\bin\Debug\net7.0\CH02Ex03Numbers.exe
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\bin\Debug\net7.0\CH02Ex03Numbers.deps.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\bin\Debug\net7.0\CH02Ex03Numbers.runtimeconfig.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\bin\Debug\net7.0\CH02Ex03Numbers.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\bin\Debug\net7.0\CH02Ex03Numbers.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\CH02Ex03Numbers.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\refint\CH02Ex03Numbers.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\CH02Ex03Numbers.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\CH02Ex03Numbers.genruntimeconfig.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\CH02Ex03Numbers\obj\Debug\net7.0\ref\CH02Ex03Numbers.dll

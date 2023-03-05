@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNTFMucv/gEsr2KzC7IAwtke+CoxtA4RXXPtU0O+YWhjAlyAVGS4iHHjNtVM8PNjE/2cDK4QidARdy+ojmgF6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moo\\Documents\\cs11dotnet7\\Chapter02\\ExploringConsole\\ExploringConsole.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moo\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

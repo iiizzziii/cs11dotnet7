@@ -1,0 +1,15 @@
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\OperatorsExercise.csproj.AssemblyReference.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\OperatorsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\OperatorsExercise.AssemblyInfoInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\OperatorsExercise.AssemblyInfo.cs
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\OperatorsExercise.csproj.CoreCompileInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\bin\Debug\net7.0\OperatorsExercise.exe
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\bin\Debug\net7.0\OperatorsExercise.deps.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\bin\Debug\net7.0\OperatorsExercise.runtimeconfig.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\bin\Debug\net7.0\OperatorsExercise.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\bin\Debug\net7.0\OperatorsExercise.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\OperatorsExercise.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\refint\OperatorsExercise.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\OperatorsExercise.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\OperatorsExercise.genruntimeconfig.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\OperatorsExercise\obj\Debug\net7.0\ref\OperatorsExercise.dll

@@ -1,0 +1,112 @@
+using System;
+using System.Threading;
+
+class Program
+{
+    static Random rand = new Random();
+
+    static int PassengerRequest()
+    {
+        int call = rand.Next(0, 10);
+        Console.WriteLine("privolali ma na " + call + ". poschodie...idem tam");
+        Thread.Sleep(1000);
+        return call;
+    }
+
+    static int PassengerRide()
+    {
+        while (true)
+        {
+            try
+            {
+                Console.WriteLine("vyberte poschodie 0 - 10: ");
+                int floorRequest = int.Parse(Console.ReadLine());
+                if (floorRequest >= 0 && floorRequest <= 10)
+                {
+                    Console.WriteLine("ideme na " + floorRequest + ". poschodie");
+                    Thread.Sleep(500);
+                    return floorRequest;
+                }
+            }
+            catch (FormatException)
+            {
+                continue;
+            }
+        }
+    }
+
+    static int GoUp(int request, int floor)
+    {
+        while (request != floor)
+        {
+            Console.WriteLine(floor);
+            Thread.Sleep(500);
+            Console.WriteLine("idem hore");
+            Thread.Sleep(500);
+            floor++;
+        }
+        Console.WriteLine(floor);
+        return floor;
+    }
+
+    static int GoDown(int request, int floor)
+    {
+        while (request != floor)
+        {
+            Console.WriteLine(floor);
+            Thread.Sleep(500);
+            Console.WriteLine("idem dole");
+            Thread.Sleep(500);
+            floor--;
+        }
+        Console.WriteLine(floor);
+        return floor;
+    }
+
+    static string ExitMessage(int newFloor)
+    {
+        return "sme na " + newFloor + ". poschodi";
+    }
+
+    static int Decision(int request, int floor)
+    {
+        int newFloor = 0;
+        string message = "";
+        if (request == floor)
+        {
+            newFloor = floor;
+            message = ExitMessage(newFloor);
+        }
+        else if (request > floor)
+        {
+            newFloor = GoUp(request, floor);
+            message = ExitMessage(newFloor);
+        }
+        else
+        {
+            newFloor = GoDown(request, floor);
+            message = ExitMessage(newFloor);
+        }
+        Console.WriteLine(message);
+        Thread.Sleep(1000);
+        return newFloor;
+    }
+
+    static void Elevator()
+    {
+        string[] starterLst = { "VÝŤAH SA ZAPÍNA", "-----ON-----", "čakám, kým ma niekto privolá" };
+
+        foreach (string item in starterLst)
+        {
+            Console.WriteLine(item);
+            Thread.Sleep(1000);
+        }
+
+        int ride = 1;
+        int startFloor = 0;
+
+        while (ride < 5)
+        {
+            int pRequest = PassengerRequest();
+            int pPickup = Decision(pRequest, startFloor);
+            int pSelection = PassengerRide();

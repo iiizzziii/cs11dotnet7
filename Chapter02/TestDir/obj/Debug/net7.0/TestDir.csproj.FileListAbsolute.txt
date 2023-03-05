@@ -1,0 +1,15 @@
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\bin\Debug\net7.0\TestDir.exe
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\bin\Debug\net7.0\TestDir.deps.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\bin\Debug\net7.0\TestDir.runtimeconfig.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\bin\Debug\net7.0\TestDir.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\bin\Debug\net7.0\TestDir.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\TestDir.csproj.AssemblyReference.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\TestDir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\TestDir.AssemblyInfoInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\TestDir.AssemblyInfo.cs
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\TestDir.csproj.CoreCompileInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\TestDir.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\refint\TestDir.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\TestDir.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\TestDir.genruntimeconfig.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter02\TestDir\obj\Debug\net7.0\ref\TestDir.dll

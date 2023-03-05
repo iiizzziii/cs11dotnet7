@@ -1,0 +1,15 @@
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\bin\Debug\net7.0\test000.exe
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\bin\Debug\net7.0\test000.deps.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\bin\Debug\net7.0\test000.runtimeconfig.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\bin\Debug\net7.0\test000.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\bin\Debug\net7.0\test000.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\test000.csproj.AssemblyReference.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\test000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\test000.AssemblyInfoInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\test000.AssemblyInfo.cs
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\test000.csproj.CoreCompileInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\test000.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\refint\test000.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\test000.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\test000.genruntimeconfig.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\test000\obj\Debug\net7.0\ref\test000.dll

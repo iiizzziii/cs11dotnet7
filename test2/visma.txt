@@ -1,0 +1,41 @@
+using System.Threading;
+
+
+static string exitMessage(int newFloor)
+{
+    return $"sme na {newFloor}.poschodi";
+}
+
+
+static int passengerRequest()
+{
+    int call = Random.Shared.Next(0, 10);
+
+    Console.WriteLine($"privolali ma na {call}.poschodie...idem tam");
+    Thread.Sleep(1000);
+
+    return call;
+}
+
+
+int PassengerRide()
+{
+    while (true)
+    {
+        try
+        {
+            Console.WriteLine("vyberte poschodie 0 - 10: ");
+            int floorRequest = Convert.ToInt32(Console.ReadLine());
+            if (floorRequest >= 0 && floorRequest <= 10)
+            {
+                Console.WriteLine("ideme na " + floorRequest + ". poschodie");
+                System.Threading.Thread.Sleep(500);
+                return floorRequest;
+            }
+        }
+        catch (FormatException)
+        {
+            continue;
+        }
+    }
+}

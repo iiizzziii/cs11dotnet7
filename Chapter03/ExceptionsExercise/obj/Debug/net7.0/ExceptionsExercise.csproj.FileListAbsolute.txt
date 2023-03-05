@@ -1,0 +1,15 @@
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\bin\Debug\net7.0\ExceptionsExercise.exe
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\bin\Debug\net7.0\ExceptionsExercise.deps.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\bin\Debug\net7.0\ExceptionsExercise.runtimeconfig.json
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\bin\Debug\net7.0\ExceptionsExercise.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\bin\Debug\net7.0\ExceptionsExercise.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ExceptionsExercise.csproj.AssemblyReference.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ExceptionsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ExceptionsExercise.AssemblyInfoInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ExceptionsExercise.AssemblyInfo.cs
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ExceptionsExercise.csproj.CoreCompileInputs.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ExceptionsExercise.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\refint\ExceptionsExercise.dll
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ExceptionsExercise.pdb
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ExceptionsExercise.genruntimeconfig.cache
+C:\Users\moo\Documents\cs11dotnet7\Chapter03\ExceptionsExercise\obj\Debug\net7.0\ref\ExceptionsExercise.dll
